@@ -46,7 +46,7 @@ date: today
 
 <nav aria-label="worksheets">
 - [Using RStudio](https://docs.google.com/document/d/1rDpvE35orNK6CgCCHjZw_t2mJ1ueQUNj37Dxb576PxE/edit?usp=sharing)
-  <!-- + [Answer Key](https://raw.githubusercontent.com/zief0002/studious-enigma/refs/heads/main/files/01-01-using-rstudio.R) -->
+  + [Answer Key](https://raw.githubusercontent.com/zief0002/studious-enigma/refs/heads/main/files/01-01-using-rstudio.R)
   <!-- + When the page opens, right-click and "Save As...". Make sure the extension is ".R" -->
 - [Learning dplyr](https://docs.google.com/document/d/177DimhBayb9tGOdUaDOU8-1AmKyEPQvy_xtgwwvjzJ0/edit?usp=sharing)
   <!-- + [Answer Key](https://raw.githubusercontent.com/zief0002/studious-enigma/refs/heads/main/files/01-02-data-wrangling-with-dplyr.R) -->

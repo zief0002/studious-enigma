@@ -83,11 +83,12 @@ my_data = data.frame(
 # Problem 14
 library(readr)
 comics = read_csv("https://raw.githubusercontent.com/zief0002/modeling/main/data/comic-characters.csv")
+# Note that the path inside the parentheses will be different for you
 
 
 # Problem 15
 
-# Look at the codebook
+# Look at the data dictionary
 
 
 # Problem 16
