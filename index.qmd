@@ -49,7 +49,7 @@ date: today
   + [Answer Key](https://raw.githubusercontent.com/zief0002/studious-enigma/refs/heads/main/files/01-01-using-rstudio.R)
   <!-- + When the page opens, right-click and "Save As...". Make sure the extension is ".R" -->
 - [Learning dplyr](https://docs.google.com/document/d/177DimhBayb9tGOdUaDOU8-1AmKyEPQvy_xtgwwvjzJ0/edit?usp=sharing)
-  <!-- + [Answer Key](https://raw.githubusercontent.com/zief0002/studious-enigma/refs/heads/main/files/01-02-data-wrangling-with-dplyr.R) -->
+  + [Answer Key](https://raw.githubusercontent.com/zief0002/studious-enigma/refs/heads/main/files/01-02-data-wrangling-with-dplyr.R)
 - [Learning ggplot2](https://docs.google.com/document/d/1UqqcEhuQrBNCdfBk__2BFLbSixoBTFTxPEWfUqhBbzs/edit?usp=sharing)
   <!-- + [Answer Key](https://raw.githubusercontent.com/zief0002/studious-enigma/refs/heads/main/files/01-03-plotting-with-ggplot2.R) -->
 <!-- - [Simple Regression](https://docs.google.com/document/d/17_jumJt_LJbzvSgAQirl9jghgkMbQp1aDL1g5RCuczM/edit?usp=sharing) -->
